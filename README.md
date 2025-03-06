@@ -2,13 +2,9 @@
 <h1 align="center">Hi 👋, I'm Esteban Hernandez</h1>
 <h3 align="center">Systems Engineering Student🌟.</h3>
 
-<br>
-
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=EstebanHdez1&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
-
-<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -16,17 +12,16 @@
 - 📌 I am learning web development and other programming languages.
 
 - 📫 How to reach me **estebanhlondono@gmail.com**
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/esteban-hernandez-220744288" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/estebitannhdez/" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+      alt="adam pithewan" height="30" width="30" /></a>
 </p>
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -55,7 +50,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>GitHub Stats:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=EstebanHdez1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
